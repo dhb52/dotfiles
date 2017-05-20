@@ -6,6 +6,7 @@ alias ll="$(brew --prefix coreutils)/libexec/gnubin/ls -ahlF --color --group-dir
 alias weather="curl -4 http://wttr.in"
 alias phpstorm='open -a /Applications/PhpStorm.app "`pwd`"'
 alias shrug="echo '¯\_(ツ)_/¯' | pbcopy"
+alias subl="/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl"
 
 # Directories
 alias dotfiles="cd $DOTFILES"
