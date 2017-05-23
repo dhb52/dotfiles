@@ -89,3 +89,6 @@ cask 'font-source-serif-pro'
 # mas 'Tweetbot', id: 557168941
 mas 'WeChat', id: 836500024
 mas 'QQ', id: 451108668
+mas 'OneDrive' , id: 823766827
+mas 'Evernote' , id: 406056744
+mas 'The Unarchiver' , id: 425424353
