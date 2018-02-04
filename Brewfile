@@ -56,7 +56,7 @@ cask 'sequel-pro'
 # cask 'slack'
 cask 'sublime-text'
 # cask 'tower'
-cask 'transmit'
+# cask 'transmit'
 cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
@@ -73,10 +73,11 @@ cask 'the-unarchiver'
 # cask 'qlstephen'
 
 # Fonts
-cask 'font-sauce-code-powerline'
-cask 'font-source-code-pro'
-cask 'font-source-sans-pro'
-cask 'font-source-serif-pro'
+# cask 'font-sauce-code-powerline'
+# cask 'font-source-code-pro'
+# cask 'font-source-sans-pro'
+# cask 'font-source-serif-pro'
+cask font-fira-code
 
 # Install Mac App Store apps
 # mas '1Password', id: 443987910
